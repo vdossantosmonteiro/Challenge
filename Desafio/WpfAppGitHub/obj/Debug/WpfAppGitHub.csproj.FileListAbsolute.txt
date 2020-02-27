@@ -1,0 +1,36 @@
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\bin\Debug\WpfAppGitHub.exe.config
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\bin\Debug\WpfAppGitHub.exe
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\bin\Debug\WpfAppGitHub.pdb
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\bin\Debug\Octokit.dll
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\bin\Debug\Octokit.xml
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\WpfAppGitHub.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\App.g.cs
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\WpfAppGitHub_MarkupCompile.cache
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\WpfAppGitHub_MarkupCompile.lref
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\WpfAppGitHub.g.resources
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\WpfAppGitHub.Properties.Resources.resources
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\WpfAppGitHub.csproj.GenerateResource.cache
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\WpfAppGitHub.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\WpfAppGitHub.csproj.CopyComplete
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\WpfAppGitHub.exe
+C:\Users\User\Documents\Desafio VVS\DesafioFinal\DesafioFinal\WpfAppGitHub\obj\Debug\WpfAppGitHub.pdb
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\bin\Debug\WpfAppGitHub.exe.config
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\bin\Debug\WpfAppGitHub.exe
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\bin\Debug\WpfAppGitHub.pdb
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\bin\Debug\Octokit.dll
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\bin\Debug\Octokit.xml
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\WpfAppGitHub.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\App.g.cs
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\WpfAppGitHub_MarkupCompile.cache
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\WpfAppGitHub_MarkupCompile.lref
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\WpfAppGitHub.g.resources
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\WpfAppGitHub.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\WpfAppGitHub.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\WpfAppGitHub.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\WpfAppGitHub.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\WpfAppGitHub.exe
+C:\Users\User\Documents\GitHub\ProjetoApi\Desafio\WpfAppGitHub\obj\Debug\WpfAppGitHub.pdb
